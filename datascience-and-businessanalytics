@@ -1,0 +1,5 @@
+Graduate Rotational Internship Program
+TASK1-Data Science and Business Analytics Intership
+By Anamika Kumari Intern at The Sparks Foundation¶
+In this task we have to predict the percentage score of a student based on the number of hours studied. The task has two variables where the feature is the no. of hours studied and
+the percentage score which has to be solved using simple linear regression.
